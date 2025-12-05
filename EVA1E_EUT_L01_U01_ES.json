@@ -1,0 +1,2805 @@
+{
+  "referenceTypeToSearch": "activities",
+  "outputOption": "activities, items, questions, and features",
+  "subject": "wl",
+  "isProduction": true,
+  "referencesToSearch": [
+    "EVA1E_EUT_L01_U01_ES"
+  ],
+  "referencesNotFound": [],
+  "introItemRefs": [
+    "EVA1_EUT_Assessment_start"
+  ],
+  "activities": [
+    {
+      "reference": "EVA1E_EUT_L01_U01_ES",
+      "title": null,
+      "description": "",
+      "data": {
+        "rendering_type": "assess",
+        "items": [
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q01_ES",
+            "id": "EVA1E_EUT_L01_U01_Q01_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q02_ES",
+            "id": "EVA1E_EUT_L01_U01_Q02_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q03_ES",
+            "id": "EVA1E_EUT_L01_U01_Q03_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q04_ES",
+            "id": "EVA1E_EUT_L01_U01_Q04_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q05_ES",
+            "id": "EVA1E_EUT_L01_U01_Q05_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q06_ES",
+            "id": "EVA1E_EUT_L01_U01_Q06_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q07_ES",
+            "id": "EVA1E_EUT_L01_U01_Q07_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q08_ES",
+            "id": "EVA1E_EUT_L01_U01_Q08_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q09_ES",
+            "id": "EVA1E_EUT_L01_U01_Q09_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q10_ES",
+            "id": "EVA1E_EUT_L01_U01_Q10_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q11_ES",
+            "id": "EVA1E_EUT_L01_U01_Q11_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q12_ES",
+            "id": "EVA1E_EUT_L01_U01_Q12_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q13_ES",
+            "id": "EVA1E_EUT_L01_U01_Q13_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q14_ES",
+            "id": "EVA1E_EUT_L01_U01_Q14_ES"
+          },
+          {
+            "reference": "EVA1E_EUT_L01_U01_Q15_ES",
+            "id": "EVA1E_EUT_L01_U01_Q15_ES"
+          }
+        ],
+        "config": {
+          "title": "Unidad 1 Examen",
+          "subtitle": "",
+          "configuration": {
+            "idle_timeout": {
+              "interval": 300
+            }
+          },
+          "navigation": {
+            "auto_save": {
+              "save_interval_duration": 300
+            },
+            "intro_item": {
+              "reference": "EVA1_EUT_Assessment_start",
+              "id": "EVA1_EUT_Assessment_start"
+            },
+            "show_intro": true,
+            "show_outro": true
+          },
+          "regions": "main",
+          "region_overrides": {
+            "top-right.pause_button": false,
+            "top-right.reading_timer_element": false,
+            "top-right.timer_element": false,
+            "top-right.itemcount_element": false,
+            "right.verticaltoc_element": false,
+            "right.save_button": false,
+            "right.reviewscreen_button": false,
+            "right.flagitem_button": false,
+            "right.calculator_button": false,
+            "right.masking_button": false,
+            "items.progress_element": true
+          }
+        }
+      },
+      "status": "published",
+      "metadata": "",
+      "tags": {
+        "Activity Creation": [
+          "Imported"
+        ],
+        "Activity Type": [
+          "Unit Test"
+        ],
+        "Assessment Type": [
+          "Summative Assessment"
+        ],
+        "Language": [
+          "es"
+        ],
+        "Source": [
+          "Legacy Edulastic"
+        ],
+        "sourceID": [
+          "62790a059f21b90009b7330e"
+        ]
+      },
+      "adaptive": {
+        "difficulty": null,
+        "operational_exposure": null,
+        "seeding_exposure": null
+      }
+    }
+  ],
+  "items": [
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q15_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "widgets": [
+          {
+            "reference": "88e0279f-970a-4f63-8c62-0e26b1594c39"
+          }
+        ],
+        "template": "dynamic"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "88e0279f-970a-4f63-8c62-0e26b1594c39",
+          "type": "longtextV2"
+        }
+      ],
+      "features": [],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q14_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "widgets": [
+          {
+            "reference": "68aee1c8-b3c4-4fd6-91f8-3da1cd3bd9e5"
+          }
+        ],
+        "template": "dynamic"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "68aee1c8-b3c4-4fd6-91f8-3da1cd3bd9e5",
+          "type": "longtextV2"
+        }
+      ],
+      "features": [],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q13_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "widgets": [
+          {
+            "reference": "0cf8c3f5-755b-44a8-b5a6-e890dc932d13"
+          }
+        ],
+        "template": "dynamic"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "0cf8c3f5-755b-44a8-b5a6-e890dc932d13",
+          "type": "longtextV2"
+        }
+      ],
+      "features": [],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q12_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "627a5abc17f2980009207da7"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "67bff7c7-8de8-4959-bdf4-8a912cc33d58"
+              },
+              {
+                "reference": "0cbacffc-6781-473e-8960-dfd635f2c453"
+              },
+              {
+                "reference": "daebec12-1e14-480e-b8f1-3e43e21675bc"
+              },
+              {
+                "reference": "4b7df681-7063-41cb-b7b8-4ad5e97e4fd4"
+              },
+              {
+                "reference": "b364ab89-14a1-4606-a15e-7dead0e40355"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "67bff7c7-8de8-4959-bdf4-8a912cc33d58",
+          "type": "longtextV2"
+        },
+        {
+          "reference": "0cbacffc-6781-473e-8960-dfd635f2c453",
+          "type": "longtextV2"
+        },
+        {
+          "reference": "daebec12-1e14-480e-b8f1-3e43e21675bc",
+          "type": "longtextV2"
+        },
+        {
+          "reference": "4b7df681-7063-41cb-b7b8-4ad5e97e4fd4",
+          "type": "longtextV2"
+        },
+        {
+          "reference": "b364ab89-14a1-4606-a15e-7dead0e40355",
+          "type": "longtextV2"
+        }
+      ],
+      "features": [
+        {
+          "reference": "627a5abc17f2980009207da7",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q11_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "627a5abc17f2980009207da7"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "9d874bbb-f9c7-4ae1-a413-afa811eb5724"
+              },
+              {
+                "reference": "c31137c0-e677-43c6-aa69-ee231ddf68d7"
+              },
+              {
+                "reference": "8eebd635-b755-4ea0-a8a0-c5389db3142c"
+              },
+              {
+                "reference": "ff26847f-ce8b-44e0-b518-6a08fcf5060b"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "9d874bbb-f9c7-4ae1-a413-afa811eb5724",
+          "type": "mcq"
+        },
+        {
+          "reference": "c31137c0-e677-43c6-aa69-ee231ddf68d7",
+          "type": "mcq"
+        },
+        {
+          "reference": "8eebd635-b755-4ea0-a8a0-c5389db3142c",
+          "type": "mcq"
+        },
+        {
+          "reference": "ff26847f-ce8b-44e0-b518-6a08fcf5060b",
+          "type": "mcq"
+        }
+      ],
+      "features": [
+        {
+          "reference": "627a5abc17f2980009207da7",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q10_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "627a5abc17f2980009207da7"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "cbda89a7-1bce-472f-b89b-f7a2c0e0c1da"
+              },
+              {
+                "reference": "6b49da40-6aee-4672-8d3e-22237a98ffb1"
+              },
+              {
+                "reference": "ad33eefe-5cda-46dd-b973-f4dfa4ce9135"
+              },
+              {
+                "reference": "a5a153fc-6ba3-438d-8edf-a80ed5eda4d4"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "cbda89a7-1bce-472f-b89b-f7a2c0e0c1da",
+          "type": "mcq"
+        },
+        {
+          "reference": "6b49da40-6aee-4672-8d3e-22237a98ffb1",
+          "type": "mcq"
+        },
+        {
+          "reference": "ad33eefe-5cda-46dd-b973-f4dfa4ce9135",
+          "type": "mcq"
+        },
+        {
+          "reference": "a5a153fc-6ba3-438d-8edf-a80ed5eda4d4",
+          "type": "mcq"
+        }
+      ],
+      "features": [
+        {
+          "reference": "627a5abc17f2980009207da7",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q09_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "627a5abc17f2980009207da7"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "94786dfc-0fbe-46a6-9eac-bacbbb61c865"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "94786dfc-0fbe-46a6-9eac-bacbbb61c865",
+          "type": "clozetext"
+        }
+      ],
+      "features": [
+        {
+          "reference": "627a5abc17f2980009207da7",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q08_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "627a5abc17f2980009207da7"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "14d843d7-75ab-4f40-bf67-e0a41ad20d6a"
+              },
+              {
+                "reference": "383551d3-76e9-4919-b04c-9e58189522f0"
+              },
+              {
+                "reference": "178cdcbb-94a2-43ee-8176-9a029367fc2f"
+              },
+              {
+                "reference": "5e5b9968-843a-4ff3-aca8-60740f328a45"
+              },
+              {
+                "reference": "be80ce56-0f46-402e-a3a7-3611727ab46c"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "14d843d7-75ab-4f40-bf67-e0a41ad20d6a",
+          "type": "mcq"
+        },
+        {
+          "reference": "383551d3-76e9-4919-b04c-9e58189522f0",
+          "type": "mcq"
+        },
+        {
+          "reference": "178cdcbb-94a2-43ee-8176-9a029367fc2f",
+          "type": "mcq"
+        },
+        {
+          "reference": "5e5b9968-843a-4ff3-aca8-60740f328a45",
+          "type": "mcq"
+        },
+        {
+          "reference": "be80ce56-0f46-402e-a3a7-3611727ab46c",
+          "type": "mcq"
+        }
+      ],
+      "features": [
+        {
+          "reference": "627a5abc17f2980009207da7",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q07_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "627a5abc17f2980009207da7"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "adb31f0c-01ae-4aba-9607-61c611ede0a1"
+              },
+              {
+                "reference": "28e8ac0d-a08b-4dc4-9945-72829c67e0f7"
+              },
+              {
+                "reference": "285005d0-86c6-45ce-b354-02747cbdab16"
+              },
+              {
+                "reference": "aa39f567-65fd-4450-9540-fabf9e33816b"
+              },
+              {
+                "reference": "d098c4a5-4e3f-4a89-a29f-99ffcb996977"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "adb31f0c-01ae-4aba-9607-61c611ede0a1",
+          "type": "mcq"
+        },
+        {
+          "reference": "28e8ac0d-a08b-4dc4-9945-72829c67e0f7",
+          "type": "mcq"
+        },
+        {
+          "reference": "285005d0-86c6-45ce-b354-02747cbdab16",
+          "type": "mcq"
+        },
+        {
+          "reference": "aa39f567-65fd-4450-9540-fabf9e33816b",
+          "type": "mcq"
+        },
+        {
+          "reference": "d098c4a5-4e3f-4a89-a29f-99ffcb996977",
+          "type": "mcq"
+        }
+      ],
+      "features": [
+        {
+          "reference": "627a5abc17f2980009207da7",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q06_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "6279b42f09e37c0009e64952"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "1a2968e3-9461-4d7f-9784-95d16f0b7df7"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "1a2968e3-9461-4d7f-9784-95d16f0b7df7",
+          "type": "association"
+        }
+      ],
+      "features": [
+        {
+          "reference": "6279b42f09e37c0009e64952",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q05_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "6279b42f09e37c0009e64952"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "b6265ebe-310b-4279-86f6-aa79bb985f2e"
+              },
+              {
+                "reference": "d5bc8ac5-226a-4d61-92f7-8ba83dd13eac"
+              },
+              {
+                "reference": "242f3569-e2c8-469f-a6ca-c4a543d7f08c"
+              },
+              {
+                "reference": "164360ad-9856-44da-964c-7ae9e1fe8e64"
+              },
+              {
+                "reference": "671a9d24-4c84-442f-aa3d-e878ba11fd7d"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "b6265ebe-310b-4279-86f6-aa79bb985f2e",
+          "type": "mcq"
+        },
+        {
+          "reference": "d5bc8ac5-226a-4d61-92f7-8ba83dd13eac",
+          "type": "mcq"
+        },
+        {
+          "reference": "242f3569-e2c8-469f-a6ca-c4a543d7f08c",
+          "type": "mcq"
+        },
+        {
+          "reference": "164360ad-9856-44da-964c-7ae9e1fe8e64",
+          "type": "mcq"
+        },
+        {
+          "reference": "671a9d24-4c84-442f-aa3d-e878ba11fd7d",
+          "type": "mcq"
+        }
+      ],
+      "features": [
+        {
+          "reference": "6279b42f09e37c0009e64952",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q04_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "6279b42f09e37c0009e64952"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "475f34bb-9e5b-456e-8a5f-a849764cc571"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "475f34bb-9e5b-456e-8a5f-a849764cc571",
+          "type": "association"
+        }
+      ],
+      "features": [
+        {
+          "reference": "6279b42f09e37c0009e64952",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q03_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "6279b42f09e37c0009e64952"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "e7bd5eef-ece1-4c46-8497-63a936cd5e4c"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "e7bd5eef-ece1-4c46-8497-63a936cd5e4c",
+          "type": "clozetext"
+        }
+      ],
+      "features": [
+        {
+          "reference": "6279b42f09e37c0009e64952",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q02_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "6279b42f09e37c0009e64952"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "3562f1a3-a60c-4bcc-9d39-5ef855f8e05c"
+              },
+              {
+                "reference": "2190725e-34b3-4c65-ad24-51afd7108b52"
+              },
+              {
+                "reference": "39aa92fa-bfd7-4a27-a9be-dce7ad33d7e2"
+              },
+              {
+                "reference": "42ca8bb8-790f-42ca-b3bf-dd79d78beff8"
+              },
+              {
+                "reference": "256d6361-1dc4-4471-b8c9-0b253afe4c7e"
+              },
+              {
+                "reference": "946b65a0-5c83-4e42-a0b5-b1d0f1bedb70"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "3562f1a3-a60c-4bcc-9d39-5ef855f8e05c",
+          "type": "mcq"
+        },
+        {
+          "reference": "2190725e-34b3-4c65-ad24-51afd7108b52",
+          "type": "mcq"
+        },
+        {
+          "reference": "39aa92fa-bfd7-4a27-a9be-dce7ad33d7e2",
+          "type": "mcq"
+        },
+        {
+          "reference": "42ca8bb8-790f-42ca-b3bf-dd79d78beff8",
+          "type": "mcq"
+        },
+        {
+          "reference": "256d6361-1dc4-4471-b8c9-0b253afe4c7e",
+          "type": "mcq"
+        },
+        {
+          "reference": "946b65a0-5c83-4e42-a0b5-b1d0f1bedb70",
+          "type": "mcq"
+        }
+      ],
+      "features": [
+        {
+          "reference": "6279b42f09e37c0009e64952",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    },
+    {
+      "reference": "EVA1E_EUT_L01_U01_Q01_ES",
+      "title": null,
+      "workflow": null,
+      "metadata": null,
+      "note": null,
+      "source": null,
+      "definition": {
+        "template": "dynamic",
+        "regions": [
+          {
+            "widgets": [
+              {
+                "reference": "6279b42f09e37c0009e64952"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          },
+          {
+            "widgets": [
+              {
+                "reference": "44919077-09db-4c05-a0aa-cfe58481662a"
+              },
+              {
+                "reference": "e662405d-c91b-4ab8-9ddd-c682a3162c86"
+              },
+              {
+                "reference": "5cae51ca-7c1e-4f2e-b45c-dbc707025059"
+              },
+              {
+                "reference": "efb3e87b-59b3-4446-8587-b489b4fa720b"
+              },
+              {
+                "reference": "fff20a5b-51d0-4156-b730-d41139b66c17"
+              },
+              {
+                "reference": "91f15a2f-75a1-441e-adf3-293aa3edfab5"
+              }
+            ],
+            "width": 50,
+            "type": "column"
+          }
+        ],
+        "scroll": {
+          "enabled": true
+        },
+        "type": "root"
+      },
+      "description": "",
+      "status": "published",
+      "questions": [
+        {
+          "reference": "44919077-09db-4c05-a0aa-cfe58481662a",
+          "type": "mcq"
+        },
+        {
+          "reference": "e662405d-c91b-4ab8-9ddd-c682a3162c86",
+          "type": "mcq"
+        },
+        {
+          "reference": "5cae51ca-7c1e-4f2e-b45c-dbc707025059",
+          "type": "mcq"
+        },
+        {
+          "reference": "efb3e87b-59b3-4446-8587-b489b4fa720b",
+          "type": "mcq"
+        },
+        {
+          "reference": "fff20a5b-51d0-4156-b730-d41139b66c17",
+          "type": "mcq"
+        },
+        {
+          "reference": "91f15a2f-75a1-441e-adf3-293aa3edfab5",
+          "type": "mcq"
+        }
+      ],
+      "features": [
+        {
+          "reference": "6279b42f09e37c0009e64952",
+          "type": "sharedpassage"
+        }
+      ],
+      "tags": {}
+    }
+  ],
+  "questions": [
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "88e0279f-970a-4f63-8c62-0e26b1594c39",
+      "data": {
+        "stimulus": "<p><strong>ESCRIBAMOS</strong></p><p><strong>Latinos famosos</strong><strong> <span style=\"box-sizing:border-box;color:rgb(250, 197, 28);user-select:text\">⦿ [Amarillo]</span></strong></p><p>Elige una persona latina que se ha destacado en la vida pública de tu país y escribe su historia. ¿Por qué es importante? ¿En qué te han afectado sus acciones personalmente? Fíjate en el uso correcto de los verbos en el presente, los verbos reflexivos y ser/estar.</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_10pt"
+        },
+        "validation": {
+          "max_score": 10
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "68aee1c8-b3c4-4fd6-91f8-3da1cd3bd9e5",
+      "data": {
+        "stimulus": "<p><strong>ESCRIBAMOS</strong></p><p><strong>Una influencia positiva <strong style=\"box-sizing:border-box;font-weight:700;user-select:text;color:rgb(68, 68, 68);font-family:&quot;Open Sans&quot;;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(248, 248, 248);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><span style=\"box-sizing:border-box;color:rgb(65, 168, 95);user-select:text\">⦿ [Verde]</span></strong></strong></p><p>¿Quién ha sido una influencia positiva en tu vida? Escribe una entrada en tu diario sobre esta persona especial. Describe su personalidad, cómo ha influido positivamente en tu vida y por qué la aprecias. Fíjate en el uso correcto de los verbos en el presente, los verbos reflexivos y ser/estar.</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_10pt"
+        },
+        "validation": {
+          "max_score": 10
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "0cf8c3f5-755b-44a8-b5a6-e890dc932d13",
+      "data": {
+        "stimulus": "<p><strong>ESCRIBAMOS</strong></p><p><strong>Latinos en mi comunidad <span style=\"color:rgb(41, 105, 176)\">⦿ [Azul]</span></strong></p><p>Piensa en una persona latina que ha causado impacto en tu comunidad, en tu escuela o en tu familia. Escribe un párrafo de entre seis y ocho oraciones describiendo su perfil. Explica cómo es esta persona y en qué consiste su contribución. Pon atención al uso correcto de los verbos en el presente, los verbos reflexivos y ser/estar.</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_10pt"
+        },
+        "validation": {
+          "max_score": 10
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "b364ab89-14a1-4606-a15e-7dead0e40355",
+      "data": {
+        "stimulus": "<p>5. ¿Qué mensaje quiere transmitir el cantante en la canción “El chicano”?</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_2pt"
+        },
+        "validation": {
+          "max_score": 2
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "4b7df681-7063-41cb-b7b8-4ad5e97e4fd4",
+      "data": {
+        "stimulus": "<p>4. ¿Por quiénes está dispuesto a luchar el hombre de la canción?</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_2pt"
+        },
+        "validation": {
+          "max_score": 2
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "daebec12-1e14-480e-b8f1-3e43e21675bc",
+      "data": {
+        "stimulus": "<p>3. ¿Cuál es la opinión del cantante acerca de su propio lugar de nacimiento?</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_2pt"
+        },
+        "validation": {
+          "max_score": 2
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "0cbacffc-6781-473e-8960-dfd635f2c453",
+      "data": {
+        "stimulus": "<p>2. ¿Cómo se sabe que el cantante admira a sus padres?</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_2pt"
+        },
+        "validation": {
+          "max_score": 2
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "longtextV2",
+      "widget_type": "response",
+      "reference": "67bff7c7-8de8-4959-bdf4-8a912cc33d58",
+      "data": {
+        "stimulus": "<p><strong>¿Entendiste los mensajes? <span style=\"color:rgb(250, 197, 28)\">⦿ [Amarillo]</span></strong></p><p>Contesta las preguntas con oraciones completas.</p><p>1. ¿Cuáles son los sentimientos que tiene el cantante sobre su propia identidad?</p>",
+        "type": "longtextV2",
+        "metadata": {
+          "sample_answer": "<p>Las respuestas variarán.</p>",
+          "rubric_reference": "Rubric_WL_Simple_2pt"
+        },
+        "validation": {
+          "max_score": 2
+        },
+        "formatting_options": [
+          "bold",
+          "italic",
+          "underline",
+          "|",
+          "unorderedList",
+          "orderedList",
+          "removeFormat",
+          "alignLeft",
+          "alignCenter",
+          "alignRight",
+          "blockquote",
+          "indentIncrease",
+          "indentDecrease",
+          "table",
+          "charactermap",
+          "image",
+          "undo",
+          "redo"
+        ]
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "ff26847f-ce8b-44e0-b518-6a08fcf5060b",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">4. El cantante dice que es bilingüe. ¿Qué idiomas habla?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Habla inglés y francés.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Solo habla español.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Habla español e inglés.</span></p>",
+            "value": "2"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Habla chicano y español.</span></p>",
+            "value": "3"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "8eebd635-b755-4ea0-a8a0-c5389db3142c",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">3. ¿Qué tienen en común el cantante y Emiliano Zapata?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Los dos nacieron en EE. UU.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los dos han luchado por sus derechos.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">A ambos los consideran chicanos.</span></p>",
+            "value": "2"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Ambos son amigos de Francisco Villa.</span></p>",
+            "value": "3"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "c31137c0-e677-43c6-aa69-ee231ddf68d7",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">2. ¿Qué quiere decir esta frase de la canción, “La sangre que llevo es de Benito Juárez”?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">El cantante se siente tan mexicano como Benito Juárez.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">El cantante piensa que él y Juárez son parientes.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">El cantante le dio su sangre a Juárez.</span></p>",
+            "value": "2"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Juárez le dio su sangre al cantante.</span></p>",
+            "value": "3"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "9d874bbb-f9c7-4ae1-a413-afa811eb5724",
+      "data": {
+        "stimulus": "<p><strong><span style=\"font-size:14px\">¿Qué comprendiste? <span style=\"color:rgb(65, 168, 95)\">⦿ [Verde]</span></span></strong></p><p><span style=\"font-size:14px\">Elige la respuesta que mejor conteste la pregunta según el audio.<br /></span></p><p><span style=\"font-size:14px\">1. ¿Cómo ven los mexicanos en México a los chicanos?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Los ven como hermanos.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Piensan que son arrogantes.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">No los ven como verdaderos mexicanos.</span></p>",
+            "value": "2"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los consideran “hijos de Juárez”.</span></p>",
+            "value": "3"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": []
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "a5a153fc-6ba3-438d-8edf-a80ed5eda4d4",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">4. El cantante quiere luchar por los derechos de __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">los mexicanos</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">los estadounidenses</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Zapata y Villa</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "ad33eefe-5cda-46dd-b973-f4dfa4ce9135",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">3. Los padres del cantante son __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">importantes para él</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">chicanos también</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">revolucionarios</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "6b49da40-6aee-4672-8d3e-22237a98ffb1",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">2. Los mexicanos tratan a los chicanos como __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">hermanos</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">iguales</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">extranjeros</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "cbda89a7-1bce-472f-b89b-f7a2c0e0c1da",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\"><strong>Según lo que canta</strong><strong> <span style=\"color:rgb(41, 105, 176)\"><strong>⦿ [Azul]</strong></span></strong></span></p><p><span style=\"font-size:14px\">Elige la palabra o frase que mejor complete la oración según el audio.</span></p><p><span style=\"font-size:14px\">1. El hombre de la canción nació en __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">México</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">EE. UU.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Sonora</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": []
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "clozetext",
+      "widget_type": "response",
+      "reference": "94786dfc-0fbe-46a6-9eac-bacbbb61c865",
+      "data": {
+        "stimulus": "",
+        "template": "<p><strong><span style=\"color:rgb(0, 0, 0)\">Términos nuevos</span></strong><strong> </strong><span style=\"color:rgb(250, 197, 28)\"><strong>⦿ [Amarillo]</strong></span></p><p>Escribe el término de la caja que mejor complete cada oración según el audio.</p><div style=\"display: flex; justify-content: center;\">\n <div \n class=\"table table-bordered\"\n style=\"max-width: 850px; padding: 1em 1em 0 1em; column-width: 150px; column-gap: 1em; overflow-wrap: break-word; text-align: center; line-height: normal; font-size: 14px; color: #A90747;\n \"><strong>\n <p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n chicano\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n discrimina\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n extranjero\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n inculcan\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n luchan\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n quiere\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n revolucionario\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n sentimiento\n </p>\n </strong></div>\n </div><p>El cantante dice que la gente “gringa” lo 1. {{response}} aunque nació en Estados Unidos. Como resultado, los otros estadounidenses lo tratan como 2. {{response}} o una persona que viene de otro país. El hombre que canta se identifica puramente como 3. {{response}} . Al contemplar lo que piensan los mexicanos de él, tiene mucho 4. {{response}} porque realmente él 5. {{response}} a México. El cantante dice que él es tan 6. {{response}} como Zapata y Villa. Probablemente diría que los padres de los chicanos les 7. {{response}} la cultura mexicana y que los mexicoamericanos 8. {{response}} por los derechos de todos los chicanos y mexicanos.</p>",
+        "type": "clozetext",
+        "response_container": {
+          "width": "150px"
+        },
+        "max_length": 100,
+        "validation": {
+          "scoring_type": "partialMatchV2",
+          "valid_response": {
+            "score": 8,
+            "value": [
+              "discrimina",
+              "extranjero",
+              "chicano",
+              "sentimiento",
+              "quiere",
+              "revolucionario",
+              "inculcan",
+              "luchan"
+            ]
+          },
+          "mix_and_match": true,
+          "alt_responses": [],
+          "ignore_case": true,
+          "penalty": 0,
+          "unscored": false,
+          "rounding": "roundDown"
+        }
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "be80ce56-0f46-402e-a3a7-3611727ab46c",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">5. Otro idioma que habla el cantante es __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">el alemán</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">el portugués</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">el gabacho</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "5e5b9968-843a-4ff3-aca8-60740f328a45",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">4. El cantante dice que en México __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">lo aceptan</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">no lo quieren</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">no le echan la culpa</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "178cdcbb-94a2-43ee-8176-9a029367fc2f",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">3. Un lugar en México mencionado en la canción es __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Sonora</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Chávez</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Zapata</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "383551d3-76e9-4919-b04c-9e58189522f0",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">2. La tierra de los padres del cantante es __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">EE. UU.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Juárez</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">México</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "14d843d7-75ab-4f40-bf67-e0a41ad20d6a",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\"><strong>Las personas y los lugares</strong><strong> </strong><span style=\"color:rgb(65, 168, 95)\"><strong>⦿ [Verde]</strong></span></span></p><p><span style=\"font-size:14px\"></span></p><p><span style=\"font-size:14px\">Elige la palabra o frase que mejor complete la oración según el audio.</span></p><p><span style=\"font-size:14px\">1. Las personas que discriminan al cantante son __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">los chicanos</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">los gringos</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Zapata y Villa</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": []
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "d098c4a5-4e3f-4a89-a29f-99ffcb996977",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">5. El cantante dice “ahí los guacho” para __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">comenzar un verso nuevo</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">hacer una comparación</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">despedirse y terminar la canción</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "aa39f567-65fd-4450-9540-fabf9e33816b",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">4. El cantante menciona todos los nombres excepto __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Jorge Chávez</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Emiliano Zapata</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Francisco Villa</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "285005d0-86c6-45ce-b354-02747cbdab16",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">3. Los padres del cantante le inculcaron __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">el sentimiento</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">la cultura</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">un sentido revolucionario</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "28e8ac0d-a08b-4dc4-9945-72829c67e0f7",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">2. La madre del cantante nació __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">cerca del Río Bravo</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">en Navaja</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">en Sonora</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "adb31f0c-01ae-4aba-9607-61c611ede0a1",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\"><strong>Sobre la identidad</strong></span><span style=\"font-size:14px\"><strong> <span style=\"color:rgb(41, 105, 176)\"><strong>⦿ [Azul]</strong></span></strong></span></p><p><span style=\"font-size:14px\">Elige la palabra o frase que mejor complete la oración según el audio.</span></p><p><span style=\"font-size:14px\">1. Según la canción, el hombre que canta es __________ .</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">chicano</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">gringo</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">puro mexicano</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": []
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "association",
+      "widget_type": "response",
+      "reference": "1a2968e3-9461-4d7f-9784-95d16f0b7df7",
+      "data": {
+        "possible_responses": [
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>A. participa en la producción y creación de los programas sobre la comunidad hispana.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>B. pueden educar a un público más amplio sobre la comunidad latina.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>C. consiste en que los hispanos usan el humor en la televisión para conectar con un público diverso.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>D. ha reaccionado de una manera positiva a las producciones de los hispanos.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>E. forman los elementos importantes del programa “Los Espookys” por Fred Armisen.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>F. tratan de normalizar la presencia de los latinos por sus representaciones de personajes diversos.</span></p>"
+        ],
+        "stimulus": "<p><strong>Los productores hispanos <span style=\"color:rgb(250, 197, 28)\">⦿ [Amarillo]</span></strong></p><p>Empareja las dos columnas para hacer oraciones lógicas según el texto.</p>",
+        "stimulus_list": [
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>1. Una idea central del artículo...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>2. El humor, la identidad de los latinos, el género del terror y el apoyo de comunidades LGBTQ...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>3. Eugenio Derbez probablemente diría que los programas con el uso del inglés, el español y el humor...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>4. Los actores como Arturo Castro...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>5. En general, la crítica...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>6. La comunidad humorística en Estados Unidos...</span></p>"
+        ],
+        "type": "association",
+        "validation": {
+          "scoring_type": "partialMatchV2",
+          "valid_response": {
+            "score": 6,
+            "value": [
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>C. consiste en que los hispanos usan el humor en la televisión para conectar con un público diverso.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>E. forman los elementos importantes del programa “Los Espookys” por Fred Armisen.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>B. pueden educar a un público más amplio sobre la comunidad latina.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>F. tratan de normalizar la presencia de los latinos por sus representaciones de personajes diversos.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>D. ha reaccionado de una manera positiva a las producciones de los hispanos.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>A. participa en la producción y creación de los programas sobre la comunidad hispana.</span></p>"
+            ]
+          },
+          "penalty": 0
+        },
+        "shuffle_options": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "671a9d24-4c84-442f-aa3d-e878ba11fd7d",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">5. ¿Cuál de estas oraciones es falsa según el artículo?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Algunos programas hechos por latinos tratan problemas sociales.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los programas en los que figuran latinos comentan problemas que son comunes a todos los estadounidenses.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los programas con personajes latinos no son populares en los estados del centro de EE. UU.</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "164360ad-9856-44da-964c-7ae9e1fe8e64",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">4. ¿Qué se puede decir de las personas mencionadas en el artículo?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Hablan español en sus programas porque no saben hablar inglés.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Todos han usado la comedia en su vida profesional.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">El público norteamericano no entiende su tipo de humor.</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "242f3569-e2c8-469f-a6ca-c4a543d7f08c",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">3. De acuerdo con lo que dice el artículo, ¿qué tienen en común Eugenio Derbez y Eva Longoria?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Ambos utilizan el humor negro en sus programas.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los dos son productores que trabajan con empresas en E.E. U.U.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los dos han trabajado con Fred Armisen en <em>Saturday Night Live</em>.</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "d5bc8ac5-226a-4d61-92f7-8ba83dd13eac",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">2. Eugenio Derbez __________.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">dice que la enseñanza es más efectiva si se incluye el humor</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">es actor de cine y no quiere hacer televisión</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">se dirige solo a un público latino en sus programas</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "b6265ebe-310b-4279-86f6-aa79bb985f2e",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\"><strong>¿Qué comprendiste? <span style=\"box-sizing:border-box;user-select:text;color:rgb(65, 168, 95)\">⦿ </span></strong><span style=\"color:rgb(65, 168, 95)\"><strong>[Verde]</strong></span></span></p><p><span style=\"font-size:14px\">Elige la respuesta que mejor conteste la pregunta o complete la frase según el texto.</span></p><p><span style=\"font-size:14px\">1. ¿Cuál de estas declaraciones es cierta?</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">Los productores latinos están molestos porque no hay latinos en los programas estadounidenses.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los comediantes latinos no quieren hablar de política.</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">Los grandes productores de EE. UU. están presentando programas con artistas latinos.</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": []
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "association",
+      "widget_type": "response",
+      "reference": "475f34bb-9e5b-456e-8a5f-a849764cc571",
+      "data": {
+        "possible_responses": [
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>A. trabajó como guionista en el programa “Key &amp; Peele”.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>B. forma parte de los que ven los programas sobre la gente hispana y latina.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>C. ha trabajado en proyectos como “Criadas malvadas” y “Grand Hotel”.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>D. es comediante que dice que explora situaciones que pueden pasar a todo el mundo.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>E. ha tenido éxito con su programa que incluye situaciones de horror.</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>F. dice que los hispanos están creando nuevos roles o papeles para ellos mismos.</span></p>"
+        ],
+        "stimulus": "<p><strong>¿Quién es? </strong><span style=\"color:rgb(41, 105, 176)\">⦿ <strong>[Azul]</strong></span></p><p>Empareja la información de las dos columnas.</p>",
+        "stimulus_list": [
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>1. El público anglosajón...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>2. Eva Longoria...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>3. Eugenio Derbez...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>4. Arturo Castro...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>5. Fred Armisen...</span></p>",
+          "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>6. Jay Martele...</span></p>"
+        ],
+        "type": "association",
+        "validation": {
+          "scoring_type": "partialMatchV2",
+          "valid_response": {
+            "score": 6,
+            "value": [
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>B. forma parte de los que ven los programas sobre la gente hispana y latina.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>C. ha trabajado en proyectos como “Criadas malvadas” y “Grand Hotel”.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>F. dice que los hispanos están creando nuevos roles o papeles para ellos mismos.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>D. es comediante que dice que explora situaciones que pueden pasar a todo el mundo.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>E. ha tenido éxito con su programa que incluye situaciones de horror.</span></p>",
+              "<p style=\"text-align: left; color: rgb(0, 0, 0);\"><span>A. trabajó como guionista en el programa “Key &amp; Peele”.</span></p>"
+            ]
+          },
+          "penalty": 0
+        },
+        "shuffle_options": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "clozetext",
+      "widget_type": "response",
+      "reference": "e7bd5eef-ece1-4c46-8497-63a936cd5e4c",
+      "data": {
+        "stimulus": "",
+        "template": "<p><strong>Los latinos en la televisión <span style=\"color:rgb(250, 197, 28)\">⦿ [Amarillo]</span></strong></p><p>Escribe el término de la caja que mejor complete cada oración según el texto.</p><div style=\"display: flex; justify-content: center;\">\n <div \n class=\"table table-bordered\"\n style=\"max-width: 850px; padding: 1em 1em 0 1em; column-width: 150px; column-gap: 1em; overflow-wrap: break-word; text-align: center; line-height: normal; font-size: 14px; color: #A90747;\n \"><strong>\n <p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n se enfocan en\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n inesperadas\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n lanzar\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n lidian con\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n protagonistas\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n han respaldado\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n temporadas\n </p><p\n style=\"line-height: inherit; padding-bottom: 1em; margin-bottom: 0;\"\n >\n tender puentes hacia\n </p>\n </strong></div>\n </div><p>Eva Longoria y Eugenio Derbez son algunos productores que 1. {{response}} la comedia y el humor para 2. {{response}} las personas que no son de las comunidades latinas. Hay un cambio ahora de las comedias tradicionales a algunas que son más 3. {{response}} . Algunos de los productores o guionistas son también 4. {{response}} de sus propios programas, donde tienen un papel importante. Insatisfechos con la imagen de los latinos en la televisión, los productores 5. {{response}} la representación estereotipada y tratan de 6. {{response}} programas con nuevas perspectivas. Los miembros del público 7. {{response}} a la gente latina que ha creado nuevos programas como “Los Espookys”. Las reacciones positivas a una serie también puede significar que va a haber más 8. {{response}} .</p>",
+        "type": "clozetext",
+        "response_container": {
+          "width": "150px"
+        },
+        "max_length": 100,
+        "validation": {
+          "scoring_type": "partialMatchV2",
+          "valid_response": {
+            "score": 8,
+            "value": [
+              "se enfocan en",
+              "tender puentes hacia",
+              "inesperadas",
+              "protagonistas",
+              "lidian con",
+              "lanzar",
+              "han respaldado",
+              "temporadas"
+            ]
+          },
+          "mix_and_match": true,
+          "alt_responses": [],
+          "ignore_case": true,
+          "rounding": "roundDown",
+          "penalty": 0,
+          "unscored": false
+        }
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "946b65a0-5c83-4e42-a0b5-b1d0f1bedb70",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">6. Si el público respalda a los actores, guionistas y productores, __________.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">los hispanos van a ganar muchos premios</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">los productores van a dejar de trabajar</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">va a haber más programas de la comunidad latina</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "256d6361-1dc4-4471-b8c9-0b253afe4c7e",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px\">5. Según Eugenio Derbez, los actores que __________ tienen iniciativa y talento.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px\">crean nuevos papeles</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">abandonan sus identidades</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px\">trabajan solamente en el cine</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "42ca8bb8-790f-42ca-b3bf-dd79d78beff8",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">4. Según los comediantes, ampliar __________ puede ser un paso adelante y algo positivo.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">la imagen y le representación de los hispanos</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">el número de personas que ven los programas</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">la cantidad de programas con humor</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "39aa92fa-bfd7-4a27-a9be-dce7ad33d7e2",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">3. Cuando la gente se rinde a los pies de las personas que __________, puede significar que los programas tienen éxito.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">critican las comedias</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">producen las comedias</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">ven las comedias</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "2190725e-34b3-4c65-ad24-51afd7108b52",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">2. Eva Longoria se ha enfocado en __________ para conectar con el público.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">los estereotipos de los latinos</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><s></s><span style=\"font-size:14px;color:rgb(0, 0, 0)\">la comedia y el humor</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">situaciones de horror</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "3562f1a3-a60c-4bcc-9d39-5ef855f8e05c",
+      "data": {
+        "stimulus": "<p><strong><span style=\"color:rgb(0, 0, 0);font-size:14px\">Sobre la televisión y la comunidad latina</span></strong><span style=\"font-size:14px\"><strong> <span style=\"box-sizing:border-box;user-select:text;color:rgb(65, 168, 95)\"><strong style=\"box-sizing:border-box;font-weight:700;user-select:text\">⦿ </strong></span><span style=\"color:rgb(65, 168, 95)\">[Verde]</span></strong></span></p><p><span style=\"font-size:14px\"></span></p><p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">Elige la palabra o frase que mejor complete la oración según el texto.</span></p><p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">1. __________ intenta enseñarle al público anglosajón sobre la comunidad latina.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">La gente de EE. UU.</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">Donald Trump</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">Eugenio Derbez</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": []
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "91f15a2f-75a1-441e-adf3-293aa3edfab5",
+      "data": {
+        "stimulus": "<p><span style=\"color:rgb(0, 0, 0)\">6. Si un programa tiene éxito, podrá tener una nueva __________, como en el caso de “Los Espookys”.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"color:rgb(0, 0, 0)\">empatía</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"color:rgb(0, 0, 0)\">temporada</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"color:rgb(0, 0, 0)\">protagonista</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "fff20a5b-51d0-4156-b730-d41139b66c17",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">5. Las personas latinas que están creando los nuevos roles tienen la __________ de ser pioneras.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">empatía</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">iniciativa</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">temporada</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "1"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "efb3e87b-59b3-4446-8587-b489b4fa720b",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">4. __________ es otra manera de expresar que la gente está creando un sentido de comunidad y entendimiento.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">“Lidiar con”</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">“Rendirse”</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">“Tender puentes”</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "5cae51ca-7c1e-4f2e-b45c-dbc707025059",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">3. Los programas nuevos intentan __________ la representación de estereotipos de la comunidad latina.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">lidiar con</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">aprovechar</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">tender puentes a</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "e662405d-c91b-4ab8-9ddd-c682a3162c86",
+      "data": {
+        "stimulus": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">2. Los productores latinos están tratando de mostrarles la cultura hispana a grupos de __________ , entre otros.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">anglosajones</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">protagonistas</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">temporadas</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "0"
+            ]
+          },
+          "alt_responses": [],
+          "max_score": 0
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    },
+    {
+      "type": "mcq",
+      "widget_type": "response",
+      "reference": "44919077-09db-4c05-a0aa-cfe58481662a",
+      "data": {
+        "stimulus": "<p><strong><span style=\"color:rgb(0, 0, 0);font-size:14px\">La televisión de la comunidad hispana</span></strong><span style=\"font-size:14px\"><strong> <span style=\"box-sizing:border-box;user-select:text;color:rgb(41, 105, 176)\">⦿ [Azul]</span></strong></span></p><p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">Elige la palabra o frase que mejor complete la oración según el texto.</span></p><p><span style=\"color:rgb(0, 0, 0)\"><span style=\"font-size:14px\">1. Eva Longoria y Eugenio Derbez</span></span><span style=\"font-size:14px;color:rgb(0, 0, 0)\"> __________ los temas cómicos para conectar a la gente.</span></p>",
+        "options": [
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">han lidiado con</span></p>",
+            "value": "0"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">se han rendido a</span></p>",
+            "value": "1"
+          },
+          {
+            "label": "<p><span style=\"font-size:14px;color:rgb(0, 0, 0)\">se han enfocado en</span></p>",
+            "value": "2"
+          }
+        ],
+        "validation": {
+          "scoring_type": "exactMatch",
+          "valid_response": {
+            "score": 1,
+            "value": [
+              "2"
+            ]
+          },
+          "alt_responses": []
+        },
+        "type": "mcq",
+        "multiple_responses": false
+      },
+      "metadata": null
+    }
+  ],
+  "features": [
+    {
+      "type": "sharedpassage",
+      "widget_type": "feature",
+      "reference": "627a5abc17f2980009207da7",
+      "data": {
+        "type": "sharedpassage",
+        "heading": "<p><strong><span style=\"color: rgb(0, 0, 0);\">ESCUCHEMOS</span></strong></p>",
+        "content": "<p><strong><span style=\"color: rgb(0, 0, 0);\"></span></strong><span style=\"color: rgb(0, 0, 0);\"><strong>Escucha: El chicano</strong></span><strong><span style=\"color: rgb(0, 0, 0);\"></span></strong></p>\n<p>Escucha la canción de un hombre chicano que habla de sus orígenes y de sus sentimientos.</p><p><span class=\"fr-video fr-deletable fr-fvl fr-dvi fr-draggable fr-active\" contenteditable=\"false\" draggable=\"true\"><video class=\"fr-draggable\" controls src=\"https://assets.learnosity.com/organisations/973/P056_EVA1_U01_Tests_chicano_5695e788-d0d6-42f8-a27b-8b7875d571cd.mp4\" style=\"width: 335px; height: 65px;\">Video is not supported on this browser.</video></span></p>"
+      },
+      "metadata": {
+        "name": "Passage",
+        "template_reference": "d5d43bd6-d02a-4969-a79a-e10b344549a8"
+      }
+    },
+    {
+      "type": "sharedpassage",
+      "widget_type": "feature",
+      "reference": "6279b42f09e37c0009e64952",
+      "data": {
+        "type": "sharedpassage",
+        "heading": "<p><strong><span style=\"color: rgb(0, 0, 0);\">LEAMOS</span></strong></p>",
+        "content": "<p><strong><span style=\"color: rgb(0, 0, 0);\">Lee: El humor latino y bilingüe conquista la televisión en inglés de EE. UU.</span></strong></p>\n<p><span style=\"color: rgb(0, 0, 0);\">En este artículo vas a leer sobre artistas y programas latinos que se presentan en la televisión estadounidense y sobre su influencia.</span></p><table class=\"table table-bordered\" style=\"width: 98%; margin-right: calc(2%);\"><tbody><tr><td style=\"width: 100.0000%;\"><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><strong>El humor latino y bilingüe conquista la televisión en inglés de EE. UU.</strong></span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp; El humor latino y bilingüe ha conquistado a la televisión en inglés de Estados Unidos,</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">de la mano de humoristas nacidos fuera del país o de hijos de inmigrantes, que con</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">proyectos propios <u>aprovechan</u> para educar al público <u>anglosajón</u> sobre su comunidad</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">en los tiempos de Donald Trump.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>“El humor conecta muy fácilmente con toda la gente, cuando tratas de educar a</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">alguien siempre sale mejor si lo haces con humor”, ha dicho a Efe el comediante y</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">productor mexicano Eugenio Derbez, quien prepara dos series para Amazon y otra</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">para Nickelodeon.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>“A lo largo de mi carrera en televisión <u>me he enfocado</u> en el humor justo por eso”, ha</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">indicado por su parte la actriz y productora Eva Longoria, quien ha inyectado comedia</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">y sátira en los proyectos dramáticos que ha producido con historias y actores latinos,</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">como “Criadas y malvadas” y ahora “Grand Hotel”.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>Tanto Derbez como Longoria han usado la comedia tradicional en la televisión y en el</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">cine para conectar con el público anglosajón. Comedias situacionales como “George</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Lopez” y “Cristela” siguieron sus pasos, mientras que más recientemente “Jane The</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Virgin” y “Vida” incorporaron el bilingüismo.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>Ahora es el turno de personajes diferentes, con un ritmo de comedia <u>inesperado</u>,</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">que se pasean con éxito en la muy fina línea que separa al humor negro de lo</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">desagradable.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>“Lo que queremos es que la gente se conecte. Por eso exploramos situaciones que</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">le pasan a todo el mundo, pero que en este caso las vive un latino”, ha dicho a Efe</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Arturo Castro, <u>protagonista</u> y fuerza <u>detrás</u> de “Alternatino”, su exitosa serie en</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Comedy Central.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>“Lo que quiero es que la gente vea una narrativa diferente de lo que es ser latino en</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">este país y que haya una comunicación a través de la <u>empatía</u>”, <u>agrega</u> el humorista</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">guatemalteco, quien se dio a conocer en la serie “Broad City”.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>Castro no está solo. Fred Armisen, como actor, guionista y productor en programas</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">humorísticos como Saturday Night Live y la satírica Portlandia, ha sorprendido este</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">año cuando <u>lanzó</u> su nueva serie “Los Espookys” en HBO.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>Armisen, quien se considera venezolano como su madre, aunque nació y creció en</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Estados Unidos, ha dicho que está viviendo su sueño. En “Los Espookys” ha logrado</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">combinar por primera vez su identidad latina, con su amor por el género del terror y la</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">defensa de la comunidad LGBTQ.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>La reacción ha sido tan positiva, que ya HBO anunció la segunda <u>temporada</u>, mientras</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">que la crítica <u>se ha rendido</u> a los pies de Armisen y sus personajes, quienes viven en un</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">país latinoamericano no identificado y <u>se encargan</u> de llevar experiencias de horror a</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">quienes las necesitan.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>El comediante Gabriel Iglesias estrenó el 21 de junio su comedia “Sr. Iglesias“ en</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Netflix, en la que explora desde el humor la vida de un profesor latino de secundaria</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">en California.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>Aunque los temas de estas series son tan diversos como la comunidad latina de</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Estados Unidos, les une el deseo de <u>tender puentes</u> hacia el resto del país, sin</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">abandonar su identidad.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>También tocan la situación política en la época del presidente Trump, algunas veces</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">más abiertamente que otras. Armisen y sus colaboradores afirman a Efe que el hecho</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">de que sus personajes hablen principalmente español ya es un punto de vista.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>“Lo mejor que puedes hacer para <u>ampliar</u> la representación de los latinos es</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">normalizar nuestra presencia”, indica Castro.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>Uno de sus personajes es un joven que <u>lidia con</u> la decepción de su novia porque no</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">cumple con el estereotipo del macho latino.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>Otro, mucho más ácido, es un agente de inmigración que explica como Estados</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Unidos ya no meterá a niños en jaulas, sino que los dejará circular libremente y con</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">una dieta “sin antibióticos”, como a las gallinas orgánicas.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>La comunidad humorística en Estados Unidos les está apoyando. Lorne Michaels, el</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">legendario creador de SNL, es productor ejecutivo con Armisen de “Los Espookys”.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Jay Martele, el guionista principal del exitoso programa de comedia “Key &amp; Peele”,</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">que lanzó la carrera de Keegan Michael Key y Jordan Peele (guionista y director de</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">“Déjame salir” y “Nosotros”), tiene el mismo rol en “Alternatino”.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>“El talento está. La <u>iniciativa</u> también. Nos cansamos de esperar buenos papeles y los</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">estamos creando nosotros mismos”, afirma Derbez, quien está también produciendo</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">en cine y ha trabajado con Paramount Studios y Nickelodeon en el desarrollo de la</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">película de “Dora and The City of Light”.</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;</span>“Estas producciones de latinos no son solo para latinos, y si el público nos <u>respalda</u>,</span></p><p style=\"margin-left: 20px;\"><span style=\"color: rgb(0, 0, 0);\">pues habrá muchísimas más”, ha pronosticado.</span></p></td></tr><tr><td style=\"width: 100.0000%;\"><br/></td></tr></tbody></table>"
+      },
+      "metadata": {
+        "name": "Passage",
+        "template_reference": "d5d43bd6-d02a-4969-a79a-e10b344549a8"
+      }
+    }
+  ]
+}
